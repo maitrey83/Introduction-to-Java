@@ -20,7 +20,7 @@ public class Add2Integers extends ConsoleProgram {
 		println("The total is " + total + ".");*/
 		
 		println("This program converts fahrenheit to celsius");
-		int fahrenheit = readInt("Enter Fahrenheit = ");
+		int fahrenheit = 45
 		int celsius = (fahrenheit - 32) * (5 / 9);
 		println("Celsius is - " + celsius + " degree");
 	}
